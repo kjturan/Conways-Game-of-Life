@@ -15,9 +15,9 @@ the Class-Path element in the application JAR files manifest file (MANIFEST.MF).
 
 To run the project from the command line, go to the dist folder and type the following:
 
-'''
+```
 java -jar "Conway_s_Game_of_Life.jar" 
-
+```
 
 To distribute this project, zip up the dist folder (including the lib folder) and distribute the ZIP file.
 
